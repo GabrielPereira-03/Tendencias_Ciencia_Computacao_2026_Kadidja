@@ -1,4 +1,3 @@
-# Tendencias_Ciencia_Computacao_2026_Kadidja
 
 # 🚀 Tendências em Ciência da Computação: Engenharia de Prompt e Aplicações em IA
 
