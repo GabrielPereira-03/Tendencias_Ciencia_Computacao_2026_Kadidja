@@ -3,7 +3,7 @@
 
 > *"Um bom prompt não é apenas uma instrução, é uma ponte entre a criatividade humana e o poder da inteligência artificial."*
 
-Bem-vindo ao repositório oficial da disciplina **Tendências em Ciência da Computação: Engenharia de Prompt e Aplicações em IA** (Semestre 2026.2), ministrada pela **Professora Kadidja Valéria Reginaldo de Oliveira** (`kadidja.oliveira@udf.edu.br`) no **UDF - Centro Universitário do Distrito Federal**.
+Bem-vindo ao repositório oficial da disciplina **Tendências em Ciência da Computação: Engenharia de Prompt e Aplicações em IA** (Semestre 2026.2), ministrada pela **Professora Kadidja Valér[...]
 
 ---
 
@@ -11,7 +11,7 @@ Bem-vindo ao repositório oficial da disciplina **Tendências em Ciência da Com
 
 Esta disciplina adota uma metodologia prática e participativa: **"O semestre é uma viagem onde você é quem organiza e conduz."** 
 
-O objetivo principal não é apenas absorver conteúdo passivamente, mas assumir o controle, integrando teoria e prática para resolver problemas do mundo real. Nossa rota se estende desde os fundamentos dos Large Language Models (LLMs) até a criação e implantação de Agentes Autônomos de IA.
+O objetivo principal não é apenas absorver conteúdo passivamente, mas assumir o controle, integrando teoria e prática para resolver problemas do mundo real. Nossa rota se estende desde os fund[...]
 
 ---
 
@@ -42,22 +42,22 @@ Durante a jornada, utilizaremos um ecossistema diversificado de ferramentas:
 
 | Unidade | Carga Horária | Objetivo da Aula | Atividade Principal | Recursos / Tecnologias | Competências Desenvolvidas |
 | :--- | :---: | :--- | :--- | :--- | :--- |
-| **Aula Inaugural** | — | Apresentação do Plano de Ensino | Boas-vindas + Criação do Repositório GitHub + **Missão 01** | GitHub, Laboratório | Entender a ementa e realizar a Missão 01 de decolagem. |
-| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Introduzir fundamentos de IA e modelos generativos | Aula expositiva + Discussão sobre aplicações reais | Data show, Quadro branco | Compreender conceitos básicos de IA. |
-| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Apresentar LLMs e sua lógica interna | Demonstração prática com ChatGPT e Copilot | Internet, Laboratório | Identificar o funcionamento de modelos generativos. |
-| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Introduzir Engenharia de Prompt | Exercícios práticos de criação de prompts simples | ChatGPT, Copilot | Elaborar instruções claras e estruturadas para IA. |
-| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Refinamento de Prompts | Comparação e análise prática de diferentes prompts | Laboratório de Informática | Ajustar e otimizar prompts para maior precisão. |
-| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Contexto e estrutura de prompts | Dinâmica em grupo: criação de prompts com papéis e restrições | Quadro branco, IA Generativa | Aplicar técnicas avançadas de prompting. |
-| **Unidade II - Programação Assistida & Automação** | 22h | Programação assistida por IA | Sugestões de código, auxílio ao desenvolvimento e refatoração | Copilot, Replit | Utilizar a IA como parceira no desenvolvimento de software. |
-| **Unidade II - Programação Assistida & Automação** | 22h | Automação com IA | Exercício prático: criação de scripts automatizados com IA | Ghostwriter, Replit | Criar soluções automatizadas com suporte de IA. |
-| **Unidade II - Programação Assistida & Automação** | 22h | Boas práticas na colaboração Humano-IA | Debate orientado + Estudo de caso real | Sala multimídia | Avaliar criticamente os limites e o potencial do *Human + AI Teaming*. |
-| **Unidade III - Low Code / No Code / Vibecode** | 24h | Introdução ao Low Code / No Code | Demonstração e navegação em plataformas visuais | Bubble, Make, Internet | Reconhecer as potencialidades de abordagens visuais de dev. |
-| **Unidade III - Low Code / No Code / Vibecode** | 24h | Vibecode e integração leve | Exercício prático: desenvolvimento de aplicação híbrida | Laboratório, Internet | Desenvolver soluções funcionais combinando IA e código leve. |
-| **Unidade III - Low Code / No Code / Vibecode** | 24h | Limitações e potencialidades / **Avaliação A2** | Discussão crítica + Mini-projeto / **Prova Teórico-Prática (A2 - 5,0 pts)** | Quadro branco, Laboratório | Avaliar vantagens/restrições do Low Code; Demonstrar domínio prático. |
-| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Criação de Agentes de IA | Construção de chatbots e assistentes interativos | Ferramentas de Chatbot | Construir agentes básicos e funcionais de IA. |
-| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Privacidade e Segurança de Dados | Estudo de caso centrado na proteção de dados sensíveis | Sala multimídia | Reconhecer riscos de segurança e aplicar boas práticas de privacidade. |
-| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Viés Algorítmico e Responsabilidade Social | Debate estruturado e reflexão crítica | Quadro branco | Analisar os impactos éticos e sociais dos sistemas de IA. |
-| **Unidade IV - Projeto Final & Avaliação** | 22h | Desenvolvimento e apresentação do Projeto Prático | Exposição dos grupos + **Avaliação A1 (5,0 pts)** | Laboratório, Data show, IA Generativa | Integrar conceitos em uma solução real e comunicar resultados. |
+| **Aula Inaugural** | — | Apresentação do Plano de Ensino | Boas-vindas + Criação do Repositório GitHub + **Missão 01** | GitHub, Laboratório | Entender a ementa e realizar a Missão 01 [...] |
+| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Introduzir fundamentos de IA e modelos generativos | Aula expositiva + Discussão sobre aplicações reais | Data show, Quadro br[...] |
+| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Apresentar LLMs e sua lógica interna | Demonstração prática com ChatGPT e Copilot | Internet, Laboratório | Identificar o fu[...] |
+| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Introduzir Engenharia de Prompt | Exercícios práticos de criação de prompts simples | ChatGPT, Copilot | Elaborar instruçõe[...] |
+| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Refinamento de Prompts | Comparação e análise prática de diferentes prompts | Laboratório de Informática | Ajustar e otimiz[...] |
+| **Unidade I - Fundamentos de IA & Engenharia de Prompt** | 22h | Contexto e estrutura de prompts | Dinâmica em grupo: criação de prompts com papéis e restrições | Quadro branco, IA Generat[...] |
+| **Unidade II - Programação Assistida & Automação** | 22h | Programação assistida por IA | Sugestões de código, auxílio ao desenvolvimento e refatoração | Copilot, Replit | Utilizar a [...] |
+| **Unidade II - Programação Assistida & Automação** | 22h | Automação com IA | Exercício prático: criação de scripts automatizados com IA | Ghostwriter, Replit | Criar soluções automa[...] |
+| **Unidade II - Programação Assistida & Automação** | 22h | Boas práticas na colaboração Humano-IA | Debate orientado + Estudo de caso real | Sala multimídia | Avaliar criticamente os lim[...] |
+| **Unidade III - Low Code / No Code / Vibecode** | 24h | Introdução ao Low Code / No Code | Demonstração e navegação em plataformas visuais | Bubble, Make, Internet | Reconhecer as potencia[...] |
+| **Unidade III - Low Code / No Code / Vibecode** | 24h | Vibecode e integração leve | Exercício prático: desenvolvimento de aplicação híbrida | Laboratório, Internet | Desenvolver soluç[...] |
+| **Unidade III - Low Code / No Code / Vibecode** | 24h | Limitações e potencialidades / **Avaliação A2** | Discussão crítica + Mini-projeto / **Prova Teórico-Prática (A2 - 5,0 pts)** | Qu[...] |
+| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Criação de Agentes de IA | Construção de chatbots e assistentes interativos | Ferramentas de Chatbot | Construir agentes bási[...] |
+| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Privacidade e Segurança de Dados | Estudo de caso centrado na proteção de dados sensíveis | Sala multimídia | Reconhecer risc[...] |
+| **Unidade IV - Agentes Inteligentes & Ética Aplicada** | 22h | Viés Algorítmico e Responsabilidade Social | Debate estruturado e reflexão crítica | Quadro branco | Analisar os impactos éti[...] |
+| **Unidade IV - Projeto Final & Avaliação** | 22h | Desenvolvimento e apresentação do Projeto Prático | Exposição dos grupos + **Avaliação A1 (5,0 pts)** | Laboratório, Data show, IA Ge[...] |
 | **Avaliação Final (AF)** | — | Consolidação e encerramento | **Avaliação Final (AF)** | Laboratório | Recuperação acadêmica e consolidação final de aprendizagens. |
 
 ---
@@ -77,5 +77,3 @@ $$\text{Nota Final (NF)} = \text{A1 } (5,0) + \text{A2 } (5,0) = 10,0 \text{ pts
 
 ### ⚠️ Protocolo de Emergência (Recuperação):
 * Caso a Nota Final seja inferior a 6,0 ($\text{NF} < 6,0$), o estudante poderá realizar a **Avaliação Final (AF)** nas datas estipuladas, a qual substituirá a menor nota obtida no semestre.
-
-
