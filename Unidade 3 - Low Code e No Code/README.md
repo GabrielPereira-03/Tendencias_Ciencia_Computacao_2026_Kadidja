@@ -175,3 +175,14 @@ Por fim, a experiência reforçou que o Low Code é ótimo para **protótipos, a
 - Adicionar um filtro com token para que só o formulário oficial consiga disparar o fluxo.
 - Salvar cada cadastro em uma planilha ou banco de dados para acompanhamento.
 - Tratar erros no cenário, como e-mail inválido, para que uma falha não interrompa o fluxo.
+
+---
+
+## 9. 🏅 Certificado complementar — Cisco Networking Academy
+
+Como registro de formação complementar, foi apresentado o certificado **Introdução à Ciência de Dados**, emitido pela **Cisco Networking Academy** em nome de **Gabriel Tavares**, com data de conclusão em **27/10/2026**.
+
+- [Dados do certificado e link de verificação](Certificado_Cisco_Introducao_Ciencia_de_Dados.md)
+- [Verificar certificado na Cisco Networking Academy](https://www.netacad.com/recognitions/verify/cdfcdc23-680e-4da7-adb5-c3f8e33209c3)
+
+> Este curso de Ciência de Dados é uma formação complementar e não deve ser confundido com a atividade prática de Low Code / No Code documentada acima.
