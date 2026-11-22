@@ -389,8 +389,6 @@ A versão inicial é **mais curta e fácil de ler à primeira vista**, por isso 
 
 ## 13. Reflexão
 
-> ✏️ *Rascunho — revisar e reescrever com as palavras da dupla.*
-
 - **Onde a IA mais ajudou?** Na geração rápida da primeira versão e na refatoração: ela sugeriu `pathlib`, `argparse` e a função de renomear em caso de conflito, recursos que deixaram o código mais robusto.
 - **Onde a IA errou?** A primeira versão não tratava conflitos de nome e podia **sobrescrever arquivos sem avisar**. O código parecia correto e passou no teste normal; o erro só apareceu quando criamos um teste específico para esse caso.
 - **O que precisei modificar?** Exigir no prompt de refatoração: nunca sobrescrever arquivos, simulação como padrão, tratamento de erro por arquivo e mensagens claras. Também foi preciso pensar nos casos de teste 4 e 5, que a IA não tinha considerado no início.
