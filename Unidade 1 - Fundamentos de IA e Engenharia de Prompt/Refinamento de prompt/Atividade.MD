@@ -1,6 +1,4 @@
-Entendi. Você quer que eu **faça a atividade da Aula 03**, preenchendo o que foi pedido no material, e não apenas reescrevendo o conteúdo da aula. Vou manter o tema de **Ciência da Computação**, usando como problema um assunto relacionado a **sistemas acadêmicos e requisitos**, para ficar coerente com a Aula 02.
-
- # Aula 03 — Refinamento de Prompts
+# Aula 03 — Refinamento de Prompts
 
  **Disciplina:** Tendências em Ciência da Computação\
  **Data:** 03/09/2026\
@@ -455,5 +453,3 @@ VALIDAR
  Assim, o experimento mostrou que a Engenharia de Prompt não consiste em simplesmente escrever comandos maiores, mas em **fornecer as informações certas para reduzir ambiguidades e orientar a Inteligência Artificial para o resultado esperado**.
 
  Ao mesmo tempo, a qualidade do prompt não elimina a necessidade de pensamento crítico. A resposta da IA deve ser analisada, comparada com fontes confiáveis e validada antes de ser utilizada.
-
- Essa versão já está **preenchida como uma atividade entregue**, seguindo as etapas da Aula 03: problema → Prompt 1 → análise → Prompt 2 → comparação → Prompt 3 → comparação final → validação → ética → reflexão → Take Away.
